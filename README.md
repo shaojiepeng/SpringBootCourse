@@ -5,4 +5,4 @@
 
 # Spring Boot 基础教程
 - chapter1： [Spring Boot 教程（一）：项目构建，完成Restful API](https://segmentfault.com/a/1190000014604077)
-- chapter2： [Spring Boot 教程（二）：使用Spring Boot JPA完成数据层访问](http://https://segmentfault.com/a/1190000014614591)
+- chapter2： [Spring Boot 教程（二）：使用Spring Boot JPA完成数据层访问](https://segmentfault.com/a/1190000014614591)
