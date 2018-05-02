@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>Section1-4</name>
-	<description>Basic course for Spring Boot: Section 1 - 4</description>
+	<description>Basic course for Spring Boot: Section 1 - 4 </description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
