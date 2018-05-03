@@ -8,3 +8,4 @@
 - Section1-2：[Spring Boot 教程（二）：使用Spring Boot JPA完成数据层访问](https://segmentfault.com/a/1190000014614591)
 - Section1-3：[Spring Boot 教程（三）：Spring Boot 整合Mybatis](https://segmentfault.com/a/1190000014616315)
 - Section1-4：[Spring Boot 教程（四）：Spring Boot 整合 thymeleaf MyBatis，展示用户信息](https://segmentfault.com/a/1190000014655259)
+- Section1-5：[Spring Boot 教程（五）：log日志配置](https://segmentfault.com/a/1190000014710248)
